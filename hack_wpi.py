@@ -114,4 +114,4 @@ with open('data.csv', 'w') as f:
 
 
 cv2.waitKey(0)
-cv2.destroyAllwindows()
+cv2.destroyAllWindows()

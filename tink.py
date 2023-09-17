@@ -121,7 +121,7 @@ def callback():
 
 
     cv2.waitKey(0)
-    cv2.destroyAllwindows()
+    cv2.destroyAllWindows()
 
 
 button = Button(app,text="Enter", command=callback)
